@@ -14,7 +14,6 @@ body {
     display: flex;
     max-width: 1250px;
     background: white;
-
     box-shadow: 5px 9px 20px rgba(0, 0, 0, 0.15);
 }
 
@@ -45,12 +44,11 @@ body {
 }
 
 .foto {
-    /* border-radius: 100px;*/
-    /* Радиус скругления */
+    border-radius: 20px;
     box-shadow: 0 0 7px #666666;
-    /* Параметры тени */
-    margin-left: 55px;
-    margin-top: 40px;
+    margin-left: 50px;
+    margin-top: 10px;
+    margin-right: 50px;
 }
 
 .about-me-container {
@@ -88,13 +86,11 @@ body {
 }
 
 .contact-cont {
-    /*width: 166px;*/
     opacity: 0.5;
     color: #ffffff;
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
-    /* Text style for phone*/
     letter-spacing: 0.42px;
     text-decoration: underline;
     margin-left: 10px;
@@ -120,7 +116,6 @@ body {
     font-size: 16px;
     font-weight: 400;
     line-height: 24px;
-    /* Text style for "HTML5" */
     letter-spacing: 0.42px;
 }
 
@@ -142,7 +137,6 @@ body {
     font-size: 14px;
     font-weight: 400;
     line-height: 24px;
-    /* Text style for "HTML5" */
     letter-spacing: 0.42px;
 }
 
