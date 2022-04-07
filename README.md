@@ -1,4 +1,4 @@
-# Result-School-CV
+# CV-2022
 
 ## Cherkes Nataliia, CV-2022
 
