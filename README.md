@@ -4,4 +4,4 @@
 
 ### Frontend Developer 
 
-#### Link: https://chernataly2020.github.io/Result-School-CV/
+#### Link: https://chernataly2020.github.io/CV-2022/
